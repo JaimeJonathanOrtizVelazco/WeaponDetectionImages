@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>armas (324).jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\train\armas (324).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>208</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>155</xmin>
+			<ymin>13</ymin>
+			<xmax>197</xmax>
+			<ymax>86</ymax>
+		</bndbox>
+	</object>
+</annotation>

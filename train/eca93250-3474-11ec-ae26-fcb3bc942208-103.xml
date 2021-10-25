@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new pistol</folder>
+	<filename>eca93250-3474-11ec-ae26-fcb3bc942208-103.jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\new pistol\eca93250-3474-11ec-ae26-fcb3bc942208-103.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pistol</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>649</xmin>
+			<ymin>344</ymin>
+			<xmax>723</xmax>
+			<ymax>411</ymax>
+		</bndbox>
+	</object>
+</annotation>
