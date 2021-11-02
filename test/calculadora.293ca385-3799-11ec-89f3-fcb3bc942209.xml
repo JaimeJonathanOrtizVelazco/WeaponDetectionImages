@@ -1,0 +1,26 @@
+<annotation>
+	<folder>calculadora</folder>
+	<filename>calculadora.293ca385-3799-11ec-89f3-fcb3bc942209.jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\collectedimages\calculadora\calculadora.293ca385-3799-11ec-89f3-fcb3bc942209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>calculadora</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>103</ymin>
+			<xmax>282</xmax>
+			<ymax>207</ymax>
+		</bndbox>
+	</object>
+</annotation>

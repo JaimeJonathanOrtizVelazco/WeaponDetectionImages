@@ -1,0 +1,26 @@
+<annotation>
+	<folder>goma</folder>
+	<filename>goma.753ddfc6-3799-11ec-a4ec-fcb3bc942209.jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\collectedimages\goma\goma.753ddfc6-3799-11ec-a4ec-fcb3bc942209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>goma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>98</ymin>
+			<xmax>235</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

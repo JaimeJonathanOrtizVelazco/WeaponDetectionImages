@@ -1,0 +1,26 @@
+<annotation>
+	<folder>tarjeta</folder>
+	<filename>tarjeta.d5232257-3798-11ec-a356-fcb3bc942209.jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\collectedimages\tarjeta\tarjeta.d5232257-3798-11ec-a356-fcb3bc942209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tarjeta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>362</xmin>
+			<ymin>285</ymin>
+			<xmax>451</xmax>
+			<ymax>315</ymax>
+		</bndbox>
+	</object>
+</annotation>

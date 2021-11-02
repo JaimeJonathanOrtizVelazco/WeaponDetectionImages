@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lapiz</folder>
+	<filename>lapiz.db63495c-3aba-11ec-adff-fcb3bc942209.jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\collectedimages\lapiz\lapiz.db63495c-3aba-11ec-adff-fcb3bc942209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lapiz</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>403</xmin>
+			<ymin>133</ymin>
+			<xmax>448</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

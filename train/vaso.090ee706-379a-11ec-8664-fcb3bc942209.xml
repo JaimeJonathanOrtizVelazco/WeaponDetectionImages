@@ -1,0 +1,26 @@
+<annotation>
+	<folder>vaso</folder>
+	<filename>vaso.090ee706-379a-11ec-8664-fcb3bc942209.jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\collectedimages\vaso\vaso.090ee706-379a-11ec-8664-fcb3bc942209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>vaso</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>285</xmin>
+			<ymin>220</ymin>
+			<xmax>430</xmax>
+			<ymax>397</ymax>
+		</bndbox>
+	</object>
+</annotation>

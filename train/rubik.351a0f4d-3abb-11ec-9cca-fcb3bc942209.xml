@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rubik</folder>
+	<filename>rubik.351a0f4d-3abb-11ec-9cca-fcb3bc942209.jpg</filename>
+	<path>C:\Users\jonat\PycharmProjects\CriminalDetectionML\Tensorflow\workspace\images\collectedimages\rubik\rubik.351a0f4d-3abb-11ec-9cca-fcb3bc942209.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rubik</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>131</ymin>
+			<xmax>314</xmax>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+</annotation>
